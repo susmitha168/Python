@@ -7,7 +7,7 @@ Started 02 Jan 2020
 Learnt about 1. any()
              2. Nested Lists
              3. Printing multiple arguments
-             4. getattr
+             4. getattr.
 
 
--->Day 2 - Completed week- 3 from Coursera Python for applied data science and AI course.Learnt difference between method and functions Python
+-->Day 2 - Completed Python for applied data science and AI course from coursera.Learnt difference between method and functions Python
